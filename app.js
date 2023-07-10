@@ -1,7 +1,7 @@
-const MAX_NUMER = 9
+const MAX_NUMBER = 9
 
 const main = () => {
-    MAX_NUMER = 20
+    MAX_NUMBER = 20
 }
 
 main()
